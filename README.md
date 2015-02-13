@@ -1,5 +1,5 @@
 # SSDLifetime
-Use BGInfo to display SSD lifetime
+
 I'm not a bigtime programmer, just making stuff I find useful, any help is appriciated :)
 
 I use BGInfo to display hostname, ipaddress, freespace on my desktop background image, and I wanted to get the lifetime for my SSD displayed also.
